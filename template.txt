@@ -1,0 +1,4 @@
+Thank you for applying to $company_name$!
+You have a warm welcome to our $unit_type$ to work with these technologies:
+- $technologies$
+$footer_quote$
